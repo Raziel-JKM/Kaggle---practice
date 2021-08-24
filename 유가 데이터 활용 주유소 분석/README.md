@@ -1,21 +1,29 @@
 프로젝트 목차
 데이터 Cleansing 및 Feature Engineering: 분석을 위한 사전 점검 및 데이터 개괄 이해
+
 1.1. 2018년 데이터 기준 데이터 Cleansing 및 Feature Engineering
+
 1.2. Cleansing 및 Feature Engineering 함수 생성 및 전체 년도 데이터 적용
+
 1.3. 연도별 데이터 Outer Join
 
 
 주유소 개폐업 현황 분석: 연도별 주유소 ID 비교를 통한 개폐업 현황 분석
+
 2.1. 연도별 개폐업 수치 분석
 
 
 브랜드 분석: 브랜드별 가격경쟁력 및 시장점유율 분석
+
 3.1. 주요 브랜드별 가격 Line Plot 분석
+
 3.2. 주요 브랜드별 지난 4년간 시장 점유율 Stacked Bar Plot 및 Heatmap 분석
 
 
 가격 분석: 주유소 및 지역 별 가격 편차 분석
+
 4.1. 가격 분포 Boxplot
+
 4.2. 지역별 가격 분포 Boxplot (Multiple Columns)
 
 데이터 출처
