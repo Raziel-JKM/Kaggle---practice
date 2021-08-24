@@ -1,4 +1,7 @@
+[유가 데이터 활용 주유소 분석](https://github.com/Raziel-JKM/Kaggle/blob/main/%EC%9C%A0%EA%B0%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%A3%BC%EC%9C%A0%EC%86%8C%20%EB%B6%84%EC%84%9D/%EC%9C%A0%EA%B0%80_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D.ipynb)
+
 프로젝트 목차
+
 데이터 Cleansing 및 Feature Engineering: 분석을 위한 사전 점검 및 데이터 개괄 이해
 
 1.1. 2018년 데이터 기준 데이터 Cleansing 및 Feature Engineering
